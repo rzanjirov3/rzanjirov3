@@ -1,4 +1,4 @@
-# Ramazan Anzhirov
+# Ramazon Anzhirov
 ### Healthcare BI Specialist | Power BI · SQL · Clinical Data Analytics
 
 I specialise in translating complex healthcare datasets into structured 
